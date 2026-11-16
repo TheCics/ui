@@ -1,0 +1,21 @@
+{
+  "name": "@bardotiao/ui",
+  "version": "1.0.0",
+  "description": "Peças de interface e áudio compartilhadas entre o portal do Bar do Tião e os jogos.",
+  "type": "module",
+  "sideEffects": false,
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCics/ui.git"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"sem testes ainda\""
+  }
+}
